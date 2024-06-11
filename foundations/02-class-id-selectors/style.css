@@ -1,0 +1,21 @@
+.a_class{
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#one_id{
+    font-family: serif;
+    font-size: 36px;
+    color:blue
+}
+
+#another_id{
+    background-color: lightgreen;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 24px;
+}
